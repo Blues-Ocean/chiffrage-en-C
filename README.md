@@ -1,2 +1,2 @@
 # chiffrage-en-C
-xor with an urandem key
+xor with an urandom key
